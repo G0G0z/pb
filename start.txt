@@ -1,1 +1,0 @@
-PointBlank.exe decode edilecek hemen başlansın.
